@@ -66,6 +66,7 @@ ggplot(datos,aes(sample=Remuneración.bruta.mensualizada,data=Estamento,color=Est
   stat_qq()+
 labs(title="Distribucion de sueldos por estamento",
      y = "Sueldos")
+table(datos$Región)
 
 write.table(datos,file="Carlos_Figueroa.csv",sep=",",dec = " ")
 
