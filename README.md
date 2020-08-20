@@ -14,13 +14,14 @@ Además, se extrae la información de remuneraciones de http://www.gorearaucania
   Numero de contratados por estamento
  ![alt text](https://i.ibb.co/1rbFLK2/Numero-de-contratados-por-estamento.png)
  
+ Se observa claramente que los profesionales tienen un ingreso mayor a los otros dos estamentos, además, son los más contratados.
+Específicamente hay 126 profesionales contratados que ganan en promedio $2.260.421 , 40 Administrativos que ganan en promedio $1.140.011 y 34 Técnicos que ganan en promedio $1.176.477.
 
   Conteo por regiones
  ![alt text](https://i.ibb.co/YT2YLRW/Conteo-regiones.png)
  
 
-Se observa claramente que los profesionales tienen un ingreso mayor a los otros dos estamentos, además, son los más contratados.
-Específicamente hay 126 profesionales contratados que ganan en promedio $2.260.421 , 40 Administrativos que ganan en promedio $1.140.011 y 34 Técnicos que ganan en promedio $1.176.477.
+
 
  
  En cuanto a las regiones, el conteo queda de la siguiente manera: 
