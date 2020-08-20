@@ -10,11 +10,11 @@ Además, se extrae la información de remuneraciones de http://www.gorearaucania
   
  ![alt text](https://i.ibb.co/hBRyLfm/Distribucion-de-sueldos-por-estamento.png)
  
- <h2>Gráfico número de contratados por estamento
+ Gráfico número de contratados por estamento
   
  ![alt text](https://i.ibb.co/1rbFLK2/Numero-de-contratados-por-estamento.png)
  
-Conteo por regiones
+Conteo por regiones<\h2>
   
  ![alt text](https://i.ibb.co/YT2YLRW/Conteo-regiones.png)
  
