@@ -6,7 +6,7 @@ para este análisis se extrae información de las páginas:
 <li> https://www.portaltransparencia.cl/PortalPdT/pdtta/-/ta/AR004/PR/PCONT/52470664
   
 Además, se extrae la información de remuneraciones de http://www.gorearaucania.cl/transparencia/2018/remuneraciones.html pero no es utilizada en el análisis, por lo que se adjunta el código aparte llamado Depa2-3.
- <h2>Gráfico distribución de sueldos por estamento
+ <h2>Gráfico distribución de sueldos por estamento.
   
  ![alt text](https://i.ibb.co/hBRyLfm/Distribucion-de-sueldos-por-estamento.png)
  
@@ -14,7 +14,7 @@ Además, se extrae la información de remuneraciones de http://www.gorearaucania
   
  ![alt text](https://i.ibb.co/1rbFLK2/Numero-de-contratados-por-estamento.png)
  
-Conteo por regiones<\h2>
+Conteo por regiones
   
  ![alt text](https://i.ibb.co/YT2YLRW/Conteo-regiones.png)
  
